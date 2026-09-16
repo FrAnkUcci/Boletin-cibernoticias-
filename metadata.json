@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Boletín Diario de Ciberseguridad fj",
+  "description": "Plataforma de inteligencia CTI para recopilar noticias de ciberseguridad, analizarlas, exportar informes ejecutivos y oficiales en PDF y sincronizar directamente con Google Drive, Google Docs y Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
